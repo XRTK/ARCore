@@ -64,5 +64,5 @@ artifacts/
 ThirdParty/
 ThirdParty.meta
 --Version/
-XRTK.PlatformName/Assets/XRTK.Generated/PlatformName/Profiles
-XRTK.PlatformName/Assets/XRTK.Generated/PlatformName/Profiles.meta
+XRTK.ARCore/Assets/XRTK.Generated/ARCore/Profiles
+XRTK.ARCore/Assets/XRTK.Generated/ARCore/Profiles.meta
