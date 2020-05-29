@@ -1,0 +1,3 @@
+[submodule "Submodules/arcore-unity-sdk"]
+	path = Submodules/arcore-unity-sdk
+	url = https://github.com/google-ar/arcore-unity-sdk.git
