@@ -10,21 +10,6 @@ namespace XRTK.Definitions.Platforms
     public class ARCorePlatform : BasePlatform
     {
         /// <inheritdoc />
-        public override bool IsAvailable
-        {
-            get
-            {
-                return false;
-            }
-        }
-
-        /// <inheritdoc />
-        public override bool IsBuildTargetAvailable
-        {
-            get
-            {
-                return false;
-            }
-        }
+        public override bool IsAvailable => false;
     }
 }
